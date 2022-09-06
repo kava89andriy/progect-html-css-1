@@ -30,6 +30,10 @@ body {
   gap: 20px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .nav-item a {
   color: #fff;
   text-decoration: none;
